@@ -74,7 +74,7 @@ class MainActivity : ComponentActivity() {
 
         consumerIrManager!!.transmit(frequency, signal)
 
-        println("Clicked Blue.")
+        println("Clicked Red.")
     }
 }
 
