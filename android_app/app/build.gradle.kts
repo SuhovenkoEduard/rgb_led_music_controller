@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rgb_led"
+    namespace = "com.rgb_led.controller"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.rgb_led"
+        applicationId = "com.rgb_led.controller"
         minSdk = 29
         targetSdk = 33
         versionCode = 1

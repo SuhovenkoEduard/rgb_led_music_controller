@@ -1,4 +1,4 @@
-package com.example.rgb_led.ui.theme
+package com.rgb_led.controller.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.rgb_led
+package com.rgb_led.controller
 
 import org.junit.Test
 
